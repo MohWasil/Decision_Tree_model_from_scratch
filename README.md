@@ -27,12 +27,12 @@ pip install -r requirements.txt
 ### **3. Run the Model**  
 Execute the Python script to train and test the model:  
 ```sh
-python decision_tree.py
+python main.py
 ```
 
 ### **4. Modify and Test with Your Own Data**  
-- Replace the dataset inside `data.csv`  
-- Adjust parameters in `decision_tree.py`  
+- Replace the dataset inside `main.csv`  
+- Adjust parameters in `main.py`  
 - Run the script again to see the results  
 
 ---
