@@ -1,7 +1,3 @@
-Here’s a well-structured **README** section you can add to your repository:  
-
----
-
 ## **Decision Tree Model from Scratch**  
 
 This project is an implementation of a **Decision Tree** classifier from scratch using Python. Instead of relying on existing libraries like `scikit-learn`, I built the model step by step, handling **data splitting, information gain calculation, tree construction, and prediction** manually. Through this project, I gained a deeper understanding of how decision trees work internally, including concepts like **entropy, Gini impurity, recursion, and tree pruning**.  
@@ -54,5 +50,3 @@ python decision_tree.py
 Feel free to **fork** the repository, open **issues**, or submit **pull requests**. Your contributions are welcome!  
 
 ---
-
-This README clearly explains the project, what you learned, and how others can use it. 🚀 Let me know if you need any changes!
